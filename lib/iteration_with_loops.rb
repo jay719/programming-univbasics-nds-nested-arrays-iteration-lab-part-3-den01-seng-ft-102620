@@ -11,7 +11,7 @@ end
 element_index+=1
 end
 outer_results << string_of_string
-row_index+=
+row_index+=1
 end
 outer_results
 end
