@@ -11,8 +11,8 @@ def join_nested_strings(src)
       while element_index <src[row_index].count do
       string_of_string = src[row_index][element_index]
       element_index+=1
-      binding.pry
   end
+   binding.pry
   outer_results << string_of_string
   row_index+=1
   end
