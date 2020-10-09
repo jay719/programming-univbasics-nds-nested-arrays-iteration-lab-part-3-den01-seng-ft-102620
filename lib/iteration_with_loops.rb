@@ -4,8 +4,8 @@ def join_nested_strings(src)
   outer_results=""
   row_index
   while row_index =0 < src.count do
-  element_index=0
-  while element_index <src[row_index].count do
+    element_index=0
+      while element_index <src[row_index].count do
 string_of_string= src[row_index][element_index]
 end
 element_index+=1
