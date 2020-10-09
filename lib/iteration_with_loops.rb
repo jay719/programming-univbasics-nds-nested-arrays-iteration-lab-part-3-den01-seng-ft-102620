@@ -10,5 +10,5 @@ string_of_string= src[row_index][element_index]
 end
 element_index+=1
 end
-
+outer_results <<
 end
