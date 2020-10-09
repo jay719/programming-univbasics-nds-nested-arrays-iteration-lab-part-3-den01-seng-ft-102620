@@ -6,5 +6,5 @@ def join_nested_strings(src)
   while row_index =0 < src.count do
   element_index=0
   while element_index <src[row_index].count do
-
+string_of_string=
 end
